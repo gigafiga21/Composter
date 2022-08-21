@@ -1,0 +1,10 @@
+[package]
+name = "Composter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+cargo-cmd = "0.3.1"
+
